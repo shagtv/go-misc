@@ -1,0 +1,4 @@
+Later in the chapter, you’ll work with channels. On occasion, you may find that code
+already using channels can better handle locking with channels. This is fine (we’ll
+show you how to do it). But in general, there’s no practical reason for implementing
+your own locking library.
